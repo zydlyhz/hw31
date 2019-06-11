@@ -43,7 +43,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>core.Input_Scanner</mainClass>
+							<mainClass>core.App</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
